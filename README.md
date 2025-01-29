@@ -36,7 +36,7 @@ To verify that users can seamlessly navigate from the landing page to the regist
  
 ### 1.4 Environments
 
-	•	Browsers: Chrome (latest), Firefox (latest), Safari.
+	•	Browsers: Chrome (latest), Safari.
 	•	Devices: Desktop, Mobile (iOS).
 
  ### 2 Test Cases
